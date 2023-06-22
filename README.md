@@ -6,7 +6,7 @@
 
 ***Uses Qb-Core Framework***
 
-link: https://github.com/qbcore-framework/qb-hud
+**link:** https://github.com/qbcore-framework/qb-hud
 
 **Preview:**
 https://streamable.com/ixbdei
